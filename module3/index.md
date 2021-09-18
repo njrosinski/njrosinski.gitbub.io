@@ -12,6 +12,6 @@ Repository:
 - [Sample Repository](https://github.com/njrosinski/sample)
 
 Back to landing page:
-- [Landing Page](https://njrosinski.github.io/module3/)
+- [Landing Page](https://njrosinski.github.io)
 
 
