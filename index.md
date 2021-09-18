@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Pesonal Website
+description: bla
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
