@@ -1,6 +1,6 @@
 title: A personal webpage for Nickoli Rosinski
-logo:
-description:
+logo: false
+description: false
 show_downloads: false
-google_analytics:
+google_analytics: false
 theme: jekyll-theme-minimal
