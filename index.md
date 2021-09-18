@@ -2,8 +2,7 @@
 Title:
 Description
 ---
-Time Series HTML
+Module 3 Assignments
 - [Time Series HTML](/module3/index.md)
 
-Time Series Jupyter Notebook
 
