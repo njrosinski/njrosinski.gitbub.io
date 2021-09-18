@@ -7,3 +7,8 @@ Jupyter Notebook HTML:
 
 Jupyter Notebook File:
 - [Time Series (Public)](TimeSeries_Public.ipynb)
+
+Repository:
+- [Sample Repository](https://github.com/njrosinski/sample)
+
+
