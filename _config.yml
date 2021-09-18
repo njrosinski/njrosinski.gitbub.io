@@ -1,6 +1,6 @@
 title: A personal webpage for Nickoli Rosinski
-logo: /assets/img/Wolf.jpg
-description: Minimal is a theme for GitHub Pages.
+logo:
+description:
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
