@@ -6,7 +6,7 @@ Jupyter Notebook HTML:
 - [M3Graphing Assignment (html)](M3Graphing.html)
 
 Jupyter Notebook File:
-- [Time Series (Public)](TimeSeries_Public.ipynb)
+- [M3Graphing Assignment (Public)](M3Graphing.ipynb)
 
 Repository:
 - [Sample Repository](https://github.com/njrosinski/sample)
